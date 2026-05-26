@@ -1,0 +1,8 @@
+# TopUp - Git Ignore
+/common/db_config.php
+/installed.lock
+/uploads/*
+!/uploads/.gitkeep
+/admin/uploads/*
+!/admin/uploads/.gitkeep
+/webhook_log.txt
